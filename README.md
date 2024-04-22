@@ -25,6 +25,8 @@ Install the required dependencies:
 
 ```bash
 npm install
+npm install -D typescript
+npm install -D ts-node
 ```
 
 ## Usage
