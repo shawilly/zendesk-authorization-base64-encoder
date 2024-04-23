@@ -12,6 +12,8 @@ This utility helps you encode your Zendesk API authentication credentials into a
 
 Before using this utility, ensure you have Node.js installed on your system. You can download Node.js from [here](https://nodejs.org/).
 
+You will also need [typescript](https://www.npmjs.com/package/typescript) and [ts-node](https://www.npmjs.com/package/ts-node). See below for installation.
+
 ## Installation
 
 Clone the repository to your local machine using:
@@ -25,6 +27,8 @@ Install the required dependencies:
 
 ```bash
 npm install
+
+# optional, see prerequisites
 npm install -D typescript
 npm install -D ts-node
 ```
